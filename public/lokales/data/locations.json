@@ -1,0 +1,148 @@
+
+[
+  {
+  "name": "Corso Augsburg",
+  "slug": "corso-augsburg",
+  "openingHours": [
+    { "days": "Mo–Do", "hours": "17:00–01:00" },
+    { "days": "Fr–Sa", "hours": "17:00–03:00" },
+    { "days": "So", "hours": "geschlossen" }
+  ],
+  "mapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJnXcH41S9nkcRNyMdmCuxU8w",
+  "hoursCheckUrl": "",
+    "type": "Bar",
+    "category": "Cocktailbar",
+    "city": "Augsburg",
+    "address": "Maximilianstraße 75, 86150 Augsburg, Deutschland",
+    "shortDescription": "Elegante Cocktailbar auf der Maximilianstraße mit stilvollem Ambiente, klassischen Drinks und langen Abenden im Herzen Augsburgs.",
+    "infoSections": [
+      {
+        "title": "Über uns",
+        "content": "Im Corso stehen gute Drinks, eine entspannte Atmosphäre und lange Abende auf der Maximilianstraße im Mittelpunkt. Wir verbinden stilvolles Ambiente mit einer lockeren Stimmung – ohne steif zu wirken. Ob klassische Cocktails oder eigene Kreationen: Bei uns geht es darum, den Abend einfach zu genießen. Egal ob als Start in die Nacht oder für ein paar gute Stunden mit Freunden – das Corso ist der Ort für unkomplizierte, aber besondere Barabende in Augsburg."
+      }
+    ],
+    "heroImage": "/lokales/img/corso/corso1.webp",
+    "favicon": "",
+    "gallery": [
+      "/lokales/img/corso/corso1.webp",
+      "/lokales/img/corso/corso2.webp",
+      "/lokales/img/corso/corso3.webp",
+      "/lokales/img/corso/corso4.webp",
+      "/lokales/img/corso/corso5.webp"
+    ],
+    "menuPdf": "/lokales/menu/Corso_Speisekarte.pdf",
+    "impressumLink": "https://landkreisplaner.de/datenschutz.html",
+    "website": "",
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com",
+    "phone": "",
+    "reservationLink": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Corso+Augsburg",
+    "mapsEmbedUrl": "https://www.google.com/maps?q=Maximilianstra%C3%9Fe%2075%2C%2086150%20Augsburg%2C%20Deutschland&z=16&output=embed",
+    "google": {
+      "placeId": "ChIJnXcH41S9nkcRNyMdmCuxU8w"
+    },
+    "openingHoursMode": "google",
+    "openingHoursFallback": [
+      { "days": "Öffnungszeiten", "hours": "Werden nach Google-Sync angezeigt" }
+    ],
+    "theme": {
+      "primary": "#1c2430",
+      "secondary": "#c9a45c",
+      "accent": "#f5efe3",
+      "surface": "#ffffff",
+      "background": "#f6f4ef",
+      "text": "#171717",
+      "heroOverlayStrong": "rgba(12, 17, 25, 0.38)",
+      "heroOverlaySoft": "rgba(12, 17, 25, 0.16)",
+      "heroOverlayBottom": "rgba(12, 17, 25, 0.40)",
+      "heroCardBackground": "rgba(250, 247, 242, 0.72)",
+      "heroCardBorder": "rgba(255, 255, 255, 0.34)",
+      "heroCardText": "#1c2430",
+      "heroCardMuted": "rgba(28, 36, 48, 0.78)",
+      "heroChipBackground": "rgba(255, 255, 255, 0.56)",
+      "heroChipBorder": "rgba(28, 36, 48, 0.10)",
+      "heroChipText": "#1c2430"
+    },
+    "seo": {
+      "title": "Corso Augsburg | Cocktailbar auf der Maximilianstraße",
+      "description": "Corso Augsburg auf der Maximilianstraße mit Adresse, Öffnungszeiten, Speisekarte und direkter Kartenansicht."
+    }
+  }, 
+  {
+    "name": "Don Pablo Augsburg",
+    "slug": "don-pablo-augsburg",
+    "type": "Restaurant",
+    "category": "Brasilianisch & Spanisch",
+    "city": "Augsburg",
+    "address": "Fuggerstraße 12a, 86150 Augsburg, Deutschland",
+    "shortDescription": "Südamerikanische und spanische Küche mitten am Augsburger Stadtmarkt – mit Feijoada, Fischgerichten, Paella und entspannter Markthallen-Atmosphäre.",
+    "infoSections": [
+      {
+        "title": "Über Don Pablo",
+        "content": "Im Don Pablo verbinden wir die Vielfalt der brasilianischen und spanischen Küche mit der lebendigen Atmosphäre des Augsburger Stadtmarkts. Unser Anspruch ist es, frische Zutaten, traditionelle Rezepte und moderne Einflüsse in Einklang zu bringen – unkompliziert, authentisch und mit viel Leidenschaft für gutes Essen."
+      },
+      {
+        "title": "Unsere Küche",
+        "content": "Unsere Küche steht für aromatische Gerichte aus Südamerika und Spanien. Klassiker wie Feijoada, frische Fischgerichte oder spanische Reisvariationen werden bei uns täglich frisch zubereitet. Dabei legen wir großen Wert auf ausgewählte Zutaten, intensive Aromen und eine Zubereitung, die den Ursprung unserer Gerichte respektiert."
+      },
+      {
+        "title": "Lage",
+        "content": "Sie finden uns zentral in der Fleischhalle des Augsburger Stadtmarkts – einem Ort, der für Genuss, Vielfalt und Begegnung steht. Ob für eine entspannte Mittagspause oder einen kurzen kulinarischen Zwischenstopp: Don Pablo ist Ihr Anlaufpunkt für authentische Küche mitten in der Augsburger Innenstadt."
+      }
+    ],
+    "heroImage": "/lokales/img/don_pablo/don_pablo1.webp",
+    "favicon": "",
+    "gallery": [
+      "/lokales/img/don_pablo/don_pablo1.webp",
+      "/lokales/img/don_pablo/don_pablo2.webp",
+      "/lokales/img/don_pablo/don_pablo3.webp",
+      "/lokales/img/don_pablo/don_pablo4.webp",
+      "/lokales/img/don_pablo/don_pablo5.webp",
+      "/lokales/img/don_pablo/don_pablo6.webp"
+    ],
+    "menuPdf": "/lokales/menu/don_pablo_speisekarte.pdf",
+    "impressumLink": "https://landkreisplaner.de/datenschutz.html",
+    "website": "https://www.don-pablo-augsburg.de/",
+    "instagram": "https://www.instagram.com/donpablo.stadtmarktaugsburg/",
+    "facebook": "",
+    "phone": "+4915227866177",
+    "reservationLink": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Don%20Pablo%20Fuggerstra%C3%9Fe%2012a%2086150%20Augsburg",
+    "mapsEmbedUrl": "https://www.google.com/maps?q=Don%20Pablo%20Fuggerstra%C3%9Fe%2012a%2086150%20Augsburg&z=16&output=embed",
+    "openingHoursMode": "manual",
+    "openingHours": [
+      { "days": "Mo", "hours": "geschlossen" },
+      { "days": "Di–Fr", "hours": "11:00–16:00" },
+      { "days": "Sa", "hours": "10:00–14:00" },
+      { "days": "So", "hours": "geschlossen" }
+    ],
+    "openingHoursFallback": [
+      { "days": "Öffnungszeiten", "hours": "Bitte vor Besuch prüfen" }
+    ],
+    "theme": {
+      "primary": "#2a1711",
+      "secondary": "#d88a2d",
+      "accent": "#fff0cf",
+      "surface": "#ffffff",
+      "background": "#fbf3e5",
+      "text": "#1f1612",
+      "heroOverlayStrong": "rgba(42, 23, 17, 0.42)",
+      "heroOverlaySoft": "rgba(42, 23, 17, 0.18)",
+      "heroOverlayBottom": "rgba(42, 23, 17, 0.46)",
+      "heroCardBackground": "rgba(255, 244, 224, 0.78)",
+      "heroCardBorder": "rgba(255, 255, 255, 0.34)",
+      "heroCardText": "#2a1711",
+      "heroCardMuted": "rgba(42, 23, 17, 0.76)",
+      "heroChipBackground": "rgba(255, 255, 255, 0.58)",
+      "heroChipBorder": "rgba(42, 23, 17, 0.12)",
+      "heroChipText": "#2a1711"
+    },
+    "seo": {
+      "title": "Don Pablo Augsburg | Brasilianisch & Spanisch am Stadtmarkt",
+      "description": "Don Pablo Augsburg in der Fuggerstraße 12a: brasilianische, spanische und südamerikanische Küche am Stadtmarkt mit Adresse, Öffnungszeiten und Karte.",
+      "image": "/lokales/img/don-pablo-augsburg.jpg",
+      "imageAlt": "Don Pablo Augsburg am Stadtmarkt"
+    }
+  }
+]

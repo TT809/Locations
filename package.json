@@ -1,0 +1,13 @@
+{
+  "name": "landkreisplaner-lokales",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Statische Lokales-Seiten fuer Vercel Deployments",
+  "scripts": {
+    "build": "node scripts/build-lokales-pages.mjs",
+    "vercel-build": "npm run build"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
